@@ -1,4 +1,4 @@
-### Hi there 👋
+My research focus is on using physics simulations for robotics automation and computer graphics animation. In particular, I am working on differentiable physics formulations for machine-learning-based optimization for control problems.
 
 <!--
 **aenzenh/aenzenh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
