@@ -1,5 +1,7 @@
 My research focus is using physics simulations for robotics automation and computer graphics animation. In particular, I am working on differentiable physics formulations for machine-learning-based optimization for control problems.
 
+https://www.linkedin.com/in/andreas-enzenhoefer-51ba30b1/
+
 <!--
 **aenzenh/aenzenh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
